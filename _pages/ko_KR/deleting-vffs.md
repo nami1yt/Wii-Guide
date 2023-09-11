@@ -19,6 +19,9 @@ RiiConnect24 청소 도구는 이러한 특정 오류와 문제를 해결할 수
 - NEWS000006
 - 꽉 찬 경우 Wii 편지함을 청소 (Wii 메일을 고칠 수 있습니다)
 
+This tool usually does not help on vWii (especially deleting SYSCONF).
+{: .notice--warning}
+
 #### 필요한 것
 
 - SD 카드 및 USB 드라이브
@@ -60,5 +63,5 @@ Deleting SYSCONF will erase the Wii Message Board history. Follow the section ab
 1. Open sntp to set the Wii's clock accurately.
 2. Finally, do a connection test and try accessing the Forecast Channel and News Channel to ensure the errors have been fixed.
 
-[RiiConnect24 설치 페이지로 돌아가기](riiconnect24)
+[Return to RiiConnect24 installation page](riiconnect24)
 {: .notice--info}
